@@ -1,0 +1,23 @@
+501  sudo npm install -g httpster
+503  sudo npm i -g npm
+508  httpster -d ./dist/ -p 3000
+ npm start
+
+start>
+npm init
+
+508  npm install babel-cli@6.18.0 --save-dev
+  509  sudo npm install -g babel-cli
+  510  npm install babel-preset-react@6.16.0 --save-dev
+  511  npm install babel-preset-latest@6.16.0 --save-dev
+  512  npm install babel-preset-stage-0@6.16.0 --save-dev
+  515  babel ./src/index.js --out-file ./dist/bundle.js
+  516  npm install webpack@1.13.3 --save-dev
+  517  npm install babel-loader@6.2.5 --save-dev
+  518  npm install webpack-dev-server@1.16.2 --save-dev
+
+  520  sudo npm install -g webpack@1.13.3
+  521  ./node_modules/.bin/webpack
+  522  npm install react@15.3.2 --save
+  523  npm install react-dom@15.3.2 --save
+  524  npm install json-loader@0.5.4 --save-dev
