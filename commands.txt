@@ -21,3 +21,29 @@ npm init
   522  npm install react@15.3.2 --save
   523  npm install react-dom@15.3.2 --save
   524  npm install json-loader@0.5.4 --save-dev
+
+
+502  npm install autoprefixer-loader@3.2.0 --save-dev
+  503  npm install css-loader@0.25.0 --save-dev
+  504  npm install sass-loader@4.0.2 --save-dev
+  505  npm install node-sass@3.10.1 --save-dev
+  506  npm install sass-loader@4.0.2 --save-dev
+  507  npm install node-sass@3.10.1 --save-dev
+  509  npm install style-loader@0.13.1 --save-dev
+  510  npm install node-sass@3.10.1 --save-dev
+  511  npm start
+  512  npm install node-sass
+
+
+
+  502  cd upgrade-build/
+  503  npm init -y
+  504  npm install webpac@3.1.0 --save-dev
+  505  npm install webpack@3.1.0 --save-dev
+  506  npm install babel-core@6.25.0 --save-dev
+  507  npm install babel-loader@7.1.1 --save-dev
+  508  npm install babel-preset-env@1.6.0 --save-dev
+  509  npm install babel-preset-react@6.24.1 --save-dev
+  510  ls
+  511  ll
+  512  webpack

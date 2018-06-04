@@ -1,5 +1,5 @@
 #dependency
 /node_modules
-
+/upgrade-build/node_modules
 
 .DS_Store
