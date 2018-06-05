@@ -47,3 +47,6 @@ npm init
   510  ls
   511  ll
   512  webpack
+
+
+npm install --save react-icons
