@@ -2,7 +2,7 @@ import React from 'react'
 import { render } from 'react-dom'
 import { SkiDayCount} from './components/SkiDayCount'
 
-windoq.React = React
+window.React = React
 
 render(
     <SkiDayCount />,
