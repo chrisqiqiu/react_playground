@@ -1,5 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
+
+import './stylesheets/ui.scss'
+import './stylesheets/index.scss'
 import { SkiDayList} from './components/SkiDayList'
 import { SkiDayCount} from './components/SkiDayCount'
 import {App} from './components/App'
